@@ -4,4 +4,5 @@ Yerel ağda bulunan cihazlar arasında temel düzeyde haberleşmeyi sağlayan, m
 <br>
 
 **server.py** dosyası çalıştırılan bilgisayarda bir sunucu görevi görerek kullanıcının gönderdiği mesajları diğer kullanıcılara dağıtmakta.
+<br>
 **client.py** dosyası ise çalıştırdığınızda sunucuya bağlanarak mesaj yazmanıza olanak sağlıyor.
